@@ -1,0 +1,41 @@
+.nav-list:hover
+{
+    color: rgb(218, 44, 88);
+}
+.nav-list:active
+{
+    color: rgb(234, 198, 11);
+}
+.fd
+{
+    width: 100vw;
+    
+    background-color: rgb(32, 35, 46);
+    
+}
+.cd{
+    border-top: 1px;
+    border-color:rgb(218, 44, 88);
+    border-style: dashed;
+    background-color: rgb(32, 35, 46);
+
+}
+.qa :hover
+{
+    color:rgb(218, 44, 88);
+}
+.abg{
+    height: 800px;
+    width: 100vw;
+    background:rgba(0,0,0,0.7) url("abg.jpg");
+    background-size: cover;
+    background-blend-mode: darken;
+    background-position: center;
+}
+.kelly
+{
+    box-shadow: 5px 5px 10px grey, -5px -5px 10px lightgrey;
+    width: 500px;
+    margin-left: 70px;
+    margin-top: 20px;
+}

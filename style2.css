@@ -1,0 +1,26 @@
+.nav-list:hover
+{
+    color: rgb(218, 44, 88);
+}
+.nav-list:active
+{
+    color: rgb(234, 198, 11);
+}
+.fd
+{
+    width: 100vw;
+    
+    background-color: rgb(32, 35, 46);
+    
+}
+.cd{
+    border-top: 1px;
+    border-color:rgb(218, 44, 88);
+    border-style: dashed;
+    background-color: rgb(32, 35, 46);
+
+}
+.qa :hover
+{
+    color:rgb(218, 44, 88);
+}

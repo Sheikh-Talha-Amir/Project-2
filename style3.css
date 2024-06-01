@@ -1,0 +1,48 @@
+.bmi{
+    background-image: url(bg\ 3.jpg);
+    background-size: cover;
+}
+.nav-list
+{
+    color: aliceblue;
+}
+.nav-list:hover
+{
+    color: rgb(218, 44, 88);
+}
+.nav-list:active
+{
+    color: rgb(234, 198, 11);
+}
+.fd
+{
+    width: 100vw;
+    
+    background-color: rgb(32, 35, 46);
+    
+}
+.cd{
+    border-top: 1px;
+    border-color:rgb(218, 44, 88);
+    border-style: dashed;
+    background-color: rgb(32, 35, 46);
+
+}
+.qa :hover
+{
+    color:rgb(218, 44, 88);
+}
+.btn-cl
+{
+    background-color:rgb(218, 44, 88) ;
+}
+.btn-cl:hover
+{
+    background-color:rgb(173, 16, 55) ;
+}
+.fd
+{
+    border-top: 1px;
+    border-style: dashed;
+    border-color:rgb(218, 44, 88) ;
+}
